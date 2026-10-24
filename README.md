@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of forumaker/magicread.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/magicread) or the [upstream repository](https://github.com/forumaker/magicread).
 
-**0** versions archived · Latest: [`3.1.0`](https://github.com/flarchive/forumaker-magicread/tree/archive/v3.1.0) · License: `MIT` · Flarum: `^2.0.0`
+**12** versions archived · Latest: [`3.1.0`](https://github.com/flarchive/forumaker-magicread/tree/archive/v3.1.0) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-01-01 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v1.0.0) |
+| `1.1.0` | 2026-02-24 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v1.1.0) |
+| `1.3.0` | 2026-05-24 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v1.3.0) |
+| `1.4.0` | 2026-05-28 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v1.4.0) |
+| `2.0.0` | 2026-01-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-02-24 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.1.0) |
+| `2.2.0` | 2026-04-17 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.2.0) |
+| `2.2.2` | 2026-04-18 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.2.2) |
+| `2.3.0` | 2026-05-24 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.3.0) |
+| `2.3.3` | 2026-05-25 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicread/tree/archive/v2.3.3) |
+
+[View all 12 versions](https://github.com/flarchive/forumaker-magicread/tags)
 
 Catalog entry: [packages/forumaker-magicread.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-magicread.json)
 
